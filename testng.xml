@@ -1,0 +1,7 @@
+<suite name="Suite" parallel="Methods" thread-count="2">
+  <test name="Test">
+    <classes>
+      <class name="org.login.ParallelExecution"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
